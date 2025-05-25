@@ -1,4 +1,4 @@
-# YOLO Dataset Labeling Tool
+# 47's YOLO Dataset Labeling Tool
 
 A simple and user-friendly Python/Tkinter GUI tool to quickly label datasets in YOLO format.
 
